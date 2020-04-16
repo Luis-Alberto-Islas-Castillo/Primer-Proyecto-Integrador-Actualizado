@@ -3,9 +3,9 @@ body {
     font-family: 'Gotu', sans-serif;
 }
 
-h1,h2,h3,h4,h5{
+h2,h3,h4,h5,h6{
     font-family: 'Merriweather', serif;
-    /* color: #f05334; */
+    color: #a81f23;
 }
 
 .logo img{
@@ -15,6 +15,13 @@ h1,h2,h3,h4,h5{
 
 .nav a{
     color: #a81f23;
+}
+
+footer{
+    padding: 20px 0;
+    background: #1e1e1e;
+    text-align: center;
+    
 }
 
 .cover {
