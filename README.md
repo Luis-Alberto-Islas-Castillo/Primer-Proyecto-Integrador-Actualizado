@@ -1,3 +1,3 @@
 # Primer-Proyecto-Integrador-Actualizado.
 
-•	Proyecto Integrador presentado en tercer cuatrimestre de la Carrera Tecnologías de la Información y Comunicación integrando nuevas mejoras en diseño y usabilidad. 
+•	Proyecto Integrador de tercer cuatrimestre de la Carrera Tecnologías de la Información y Comunicación integrando mejoras en diseño y usabilidad ala pagina estatica del proyecto.
